@@ -1,0 +1,11 @@
+Bacterial_Spot
+Bukan_Daun
+Early_Blight
+Healthy
+Late_Blight
+Leaf_Mold
+Mosaic_Virus
+Septoria_Leaf_Spot
+Spider_Mites
+Target_Spot
+Yellow_Leaf_Curl_Virus

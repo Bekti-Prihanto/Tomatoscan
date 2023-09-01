@@ -1,0 +1,4 @@
+Bukan_Tomat
+Matang
+Mentah
+Setengah_Matang
